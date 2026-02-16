@@ -1,0 +1,33 @@
+﻿[
+  {
+    "questionId": 1,
+    "questionNo": 1,
+    "questionName": "2+2 เท่ากับอะไร?",
+    "choices": [
+      {
+        "choiceId": 1,
+        "questionId": 1,
+        "choiceName": "3",
+        "isCorrect": false
+      },
+      {
+        "choiceId": 2,
+        "questionId": 1,
+        "choiceName": "4",
+        "isCorrect": true
+      },
+      {
+        "choiceId": 3,
+        "questionId": 1,
+        "choiceName": "5",
+        "isCorrect": false
+      },
+      {
+        "choiceId": 4,
+        "questionId": 1,
+        "choiceName": "6",
+        "isCorrect": false
+      }
+    ]
+  }
+]
